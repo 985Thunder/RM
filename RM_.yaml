@@ -1,0 +1,12 @@
+path: D:\竞赛\RM\ultralytics-main\dataset
+train: images/train
+val: images/val
+test:
+
+names:
+  0: bluesb
+  1: blue1
+  2: blue3
+  3: redsb
+  4: red1
+  5: red3

@@ -1,0 +1,9 @@
+*.pt filter=lfs diff=lfs merge=lfs -text
+*.onnx filter=lfs diff=lfs merge=lfs -text
+*.pth filter=lfs diff=lfs merge=lfs -text
+*.bin filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.jpggit filter=lfs diff=lfs merge=lfs -text
+add filter=lfs diff=lfs merge=lfs -text
+.gitattributes filter=lfs diff=lfs merge=lfs -text
